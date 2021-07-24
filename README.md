@@ -1,17 +1,13 @@
 # task1_f223
 
-A new Flutter project.
+Task 1 for Flutter & Dart - The Complete Guide [2021 Edition]
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Solve the tasks outlined in the video (starting code is attached).
 
-A few resources to get you started if this is your first Flutter project:
+Create a new Flutter App (flutter create flutter_assignment, then replace your main.dart with the attached one) and output an AppBar and some text below it (i.e. in the body of the page)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Add a button (e.g. RaisedButton) which changes the text (to any other text of your choice)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# task1_f223
+Split the app into three custom widgets: App, TextControl & Text
